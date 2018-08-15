@@ -3,7 +3,7 @@ var translate = require('google-translate-api');
 var express = require("express");
 var express = require('express');
 var app = express();
-app.listen(3003);
+app.listen(3002);
 
 console.log('Listening on port 3002...');
 
